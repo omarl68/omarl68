@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Omar Labidli and I'm a Full Stack Js, from Tunisia 🇹🇳</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Omar Labidli and I'm a Full Stack Developer, from Tunisia 🇹🇳</h2>
 
 ###
 
